@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "changed_end:smooth_obsidian",
+    "changed_end:obsidian_pillar",
+    "changed_end:chiseled_obsidian",
+    "changed_end:corrupted_nylium"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "changed_end:end_stone_tile_slab"
+    }
+  },
+  "result": {
+    "item": "changed_end:chiseled_end_stone_bricks",
+    "count": 1
+  }
+}

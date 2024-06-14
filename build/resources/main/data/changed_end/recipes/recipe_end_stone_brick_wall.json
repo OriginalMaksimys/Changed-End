@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "changed_end:smooth_end_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "minecraft:end_stone_brick_wall",
+    "count": 6
+  }
+}

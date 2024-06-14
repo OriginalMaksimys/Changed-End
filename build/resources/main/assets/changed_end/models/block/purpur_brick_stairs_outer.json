@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "changed_end:block/purpur_bricks",
+    "top": "changed_end:block/purpur_bricks",
+    "side": "changed_end:block/purpur_bricks"
+  },
+  "render_type": "solid"
+}

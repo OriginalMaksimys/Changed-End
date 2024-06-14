@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "changed_end:blocks/corrupted_pressure_plate",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "changed_end:corrupted_pressure_plate"
+        }
+      ]
+    }
+  ]
+}

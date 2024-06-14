@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "changed_end:block/end_stone_tile_slab"
+    },
+    "type=top": {
+      "model": "changed_end:block/end_stone_tile_slab_top"
+    },
+    "type=double": {
+      "model": "changed_end:block/end_stone_tile_slab_full"
+    }
+  }
+}

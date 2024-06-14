@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "changed_end:purpur_wall",
+    "changed_end:dark_purpur",
+    "changed_end:dark_tiled_purpur",
+    "changed_end:light_tiled_purpur",
+    "changed_end:purpur_brick_stairs",
+    "changed_end:purpur_brick_slab",
+    "changed_end:purpur_bricks",
+    "changed_end:cracked_end_stone_bricks",
+    "changed_end:chiseled_end_stone_bricks",
+    "changed_end:end_stone_pillar",
+    "changed_end:end_stone_tile_stairs",
+    "changed_end:end_stone_tile_slab",
+    "changed_end:end_stone_tiles",
+    "changed_end:engraved_end_stone_bricks",
+    "changed_end:smooth_end_stone_bricks"
+  ]
+}

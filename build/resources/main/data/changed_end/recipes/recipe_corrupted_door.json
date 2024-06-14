@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "changed_end:corrupted_planks"
+    }
+  },
+  "result": {
+    "item": "changed_end:corrupted_door",
+    "count": 3
+  }
+}

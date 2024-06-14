@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "changed_end:block/chiseled_obsidian_top",
+    "up": "changed_end:block/chiseled_obsidian_top",
+    "north": "changed_end:block/chiseled_obsidian_side",
+    "east": "changed_end:block/chiseled_obsidian_side",
+    "south": "changed_end:block/chiseled_obsidian_side",
+    "west": "changed_end:block/chiseled_obsidian_side",
+    "particle": "changed_end:block/chiseled_obsidian_top"
+  },
+  "render_type": "solid"
+}

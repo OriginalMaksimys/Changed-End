@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "changed_end:block/corrupted_roots",
+    "particle": "changed_end:block/corrupted_roots"
+  },
+  "render_type": "cutout"
+}

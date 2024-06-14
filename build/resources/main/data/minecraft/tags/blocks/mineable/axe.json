@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "changed_end:corrupted_pressure_plate",
+    "changed_end:corrupted_door",
+    "changed_end:corrupted_fence_gate",
+    "changed_end:corrupted_trapdoor",
+    "changed_end:corrupted_button",
+    "changed_end:corrupted_fence",
+    "changed_end:corrupted_stairs",
+    "changed_end:corrupted_slab",
+    "changed_end:corrupted_planks",
+    "changed_end:stripped_corrupted_log",
+    "changed_end:corrupted_log"
+  ]
+}

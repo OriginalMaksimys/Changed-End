@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:huge_fungus",
+  "config": {
+    "valid_base_block": {
+      "Name": "changed_end:corrupted_nylium"
+    },
+    "stem_state": {
+      "Name": "changed_end:corrupted_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "hat_state": {
+      "Name": "changed_end:corrupted_leaves"
+    },
+    "decor_state": {
+      "Name": "changed_end:corrupted_leaves"
+    },
+    "replaceable_blocks": {
+      "type": "minecraft:matching_blocks",
+      "blocks": "#replaceable_by_trees"
+    },
+    "planted": "true"
+  }
+}

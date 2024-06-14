@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "changed_end:block/end_stone_tiles",
+    "top": "changed_end:block/end_stone_tiles",
+    "side": "changed_end:block/end_stone_tiles"
+  },
+  "render_type": "solid"
+}

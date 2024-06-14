@@ -1,0 +1,9 @@
+{
+  "type": "changed_end:structure_feature",
+  "config": {
+    "structure": "changed_end:end_treasure",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}

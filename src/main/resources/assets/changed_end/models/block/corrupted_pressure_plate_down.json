@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "changed_end:block/corrupted_planks"
+  },
+  "render_type": "solid"
+}

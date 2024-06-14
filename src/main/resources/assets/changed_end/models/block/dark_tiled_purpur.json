@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "changed_end:block/dark_tiled_purpur",
+    "up": "changed_end:block/dark_tiled_purpur",
+    "north": "changed_end:block/dark_tiled_purpur",
+    "east": "changed_end:block/dark_tiled_purpur",
+    "south": "changed_end:block/dark_tiled_purpur",
+    "west": "changed_end:block/dark_tiled_purpur",
+    "particle": "changed_end:block/dark_tiled_purpur"
+  },
+  "render_type": "solid"
+}

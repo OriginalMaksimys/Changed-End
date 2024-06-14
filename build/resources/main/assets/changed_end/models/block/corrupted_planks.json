@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "changed_end:block/corrupted_planks",
+    "up": "changed_end:block/corrupted_planks",
+    "north": "changed_end:block/corrupted_planks",
+    "east": "changed_end:block/corrupted_planks",
+    "south": "changed_end:block/corrupted_planks",
+    "west": "changed_end:block/corrupted_planks",
+    "particle": "changed_end:block/corrupted_planks"
+  },
+  "render_type": "solid"
+}

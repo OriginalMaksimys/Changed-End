@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "changed_end:blocks/engraved_end_stone_bricks",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "changed_end:engraved_end_stone_bricks"
+        }
+      ]
+    }
+  ]
+}

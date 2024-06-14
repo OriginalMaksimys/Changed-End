@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "changed_end:blocks/corrupted_door",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "changed_end:corrupted_door",
+          "conditions": [
+            {
+              "block": "changed_end:corrupted_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

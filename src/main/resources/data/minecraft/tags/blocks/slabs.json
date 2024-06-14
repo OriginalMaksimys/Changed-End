@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "changed_end:purpur_brick_slab",
+    "changed_end:end_stone_tile_slab",
+    "changed_end:corrupted_slab"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "changed_end:block/purpur_brick_slab"
+    },
+    "type=top": {
+      "model": "changed_end:block/purpur_brick_slab_top"
+    },
+    "type=double": {
+      "model": "changed_end:block/purpur_brick_slab_full"
+    }
+  }
+}

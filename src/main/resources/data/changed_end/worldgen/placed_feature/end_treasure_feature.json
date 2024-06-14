@@ -1,0 +1,34 @@
+{
+  "feature": "changed_end:end_treasure_feature",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 230
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:matching_blocks",
+        "blocks": [
+          "minecraft:end_stone",
+          "changed_end:corrupted_nylium"
+        ],
+        "offset": [
+          0,
+          -1,
+          0
+        ]
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "changed_end:block/corrupted_planks",
+    "particle": "changed_end:block/corrupted_planks"
+  },
+  "render_type": "solid"
+}

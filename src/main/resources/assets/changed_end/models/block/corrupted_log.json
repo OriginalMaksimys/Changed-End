@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "changed_end:block/corrupted_log",
+    "up": "changed_end:block/corrupted_log",
+    "north": "changed_end:block/corrupted_log",
+    "east": "changed_end:block/corrupted_log",
+    "south": "changed_end:block/corrupted_log",
+    "west": "changed_end:block/corrupted_log",
+    "particle": "changed_end:block/corrupted_log"
+  },
+  "render_type": "solid"
+}

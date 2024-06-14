@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "changed_end:block/tall_corrupted_roots"
+    },
+    "half=lower": {
+      "model": "changed_end:block/tall_corrupted_roots_bottom"
+    }
+  }
+}

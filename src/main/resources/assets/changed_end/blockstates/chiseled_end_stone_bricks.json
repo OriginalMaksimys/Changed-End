@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "changed_end:block/chiseled_end_stone_bricks",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "changed_end:block/chiseled_end_stone_bricks"
+    },
+    "axis=z": {
+      "model": "changed_end:block/chiseled_end_stone_bricks",
+      "x": 90
+    }
+  }
+}

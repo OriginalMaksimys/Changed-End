@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "changed_end:block/corrupted_planks",
+    "top": "changed_end:block/corrupted_planks",
+    "side": "changed_end:block/corrupted_planks"
+  },
+  "render_type": "solid"
+}

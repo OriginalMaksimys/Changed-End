@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate_open",
+  "textures": {
+    "texture": "changed_end:block/corrupted_planks"
+  },
+  "render_type": "solid"
+}

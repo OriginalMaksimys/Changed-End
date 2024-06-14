@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#is_overworld",
+  "features": "changed_end:corrupted_roots",
+  "step": "vegetal_decoration"
+}

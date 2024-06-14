@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "changed_end:purpur_bricks"
+    }
+  },
+  "result": {
+    "item": "changed_end:purpur_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build\\classes",
+    "\\build\\classes\\java",
+    "\\build\\classes\\java\\main",
+    "\\build\\classes\\java\\main\\com",
+    "\\build\\classes\\java\\main\\com\\maksimys",
+    "\\build\\classes\\java\\main\\com\\maksimys\\changed_end",
+    "\\build\\classes\\java\\main\\com\\maksimys\\changed_end\\block",
+    "\\gradle",
+    "\\gradle\\wrapper"
+  ],
+  "SelectedNode": "\\gradle\\wrapper\\gradle-wrapper.properties",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "changed_end:blocks/tall_corrupted_roots",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "changed_end:tall_corrupted_roots",
+          "conditions": [
+            {
+              "block": "changed_end:tall_corrupted_roots",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:end_stone",
+    "minecraft:stone",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "minecraft:deepslate",
+    "minecraft:netherrack",
+    "minecraft:tuff",
+    "minecraft:infested_deepslate",
+    "minecraft:infested_stone",
+    "minecraft:infested_cobblestone",
+    "minecraft:basalt",
+    "minecraft:polished_basalt",
+    "minecraft:smooth_basalt",
+    "minecraft:calcite",
+    "minecraft:dripstone_block",
+    "minecraft:mossy_cobblestone"
+  ]
+}

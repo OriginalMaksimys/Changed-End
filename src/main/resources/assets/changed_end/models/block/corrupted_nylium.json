@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "changed_end:block/corrupted_nylium_bottom",
+    "top": "changed_end:block/corrupted_nylium_top",
+    "side": "changed_end:block/corrupted_nylium_side",
+    "overlay": "changed_end:block/corrupted_nylium_side",
+    "particle": "changed_end:block/corrupted_nylium_bottom"
+  },
+  "render_type": "solid"
+}

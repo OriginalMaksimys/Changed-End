@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="changed_end"
+version="0.9"
+displayName="Changed End"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Made by Maksimys"
+authors="Maksimys_"
+description="Changed End"
+displayTest="IGNORE_SERVER_VERSION"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.changed_end]]
+    modId="neoforge"
+    type="required"
+    versionRange="[20.4.223,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.changed_end]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.20.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

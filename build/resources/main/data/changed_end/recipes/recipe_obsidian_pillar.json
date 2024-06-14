@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "changed_end:smooth_obsidian"
+    }
+  },
+  "result": {
+    "item": "changed_end:obsidian_pillar",
+    "count": 2
+  }
+}

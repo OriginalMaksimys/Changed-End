@@ -1,0 +1,34 @@
+{
+  "music.shulk": {
+    "sounds": [
+      {
+        "name": "changed_end:shulk",
+        "stream": true
+      }
+    ]
+  },
+  "music.weird_realm": {
+    "sounds": [
+      {
+        "name": "changed_end:weird_realm",
+        "stream": true
+      }
+    ]
+  },
+  "music.tall": {
+    "sounds": [
+      {
+        "name": "changed_end:tall",
+        "stream": true
+      }
+    ]
+  },
+  "music.null": {
+    "sounds": [
+      {
+        "name": "changed_end:null",
+        "stream": true
+      }
+    ]
+  }
+}

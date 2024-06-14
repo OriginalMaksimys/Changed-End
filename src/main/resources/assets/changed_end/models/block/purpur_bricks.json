@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "changed_end:block/purpur_bricks",
+    "up": "changed_end:block/purpur_bricks",
+    "north": "changed_end:block/purpur_bricks",
+    "east": "changed_end:block/purpur_bricks",
+    "south": "changed_end:block/purpur_bricks",
+    "west": "changed_end:block/purpur_bricks",
+    "particle": "changed_end:block/purpur_bricks"
+  },
+  "render_type": "solid"
+}
